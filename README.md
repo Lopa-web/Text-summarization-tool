@@ -10,7 +10,7 @@
 
 "DURATION":8 WEEKS
 
-"MENTOR":NEELA_SANTHU
+"MENTOR":NEELA SANTOSH
 
 "DESCRIPTION":This project is a Text Summarization and Sentiment Analysis Tool built using Python, Tkinter, TextBlob, and Newspaper3k. It extracts, summarizes, and analyzes the sentiment of articles from any given URL.
 Features:Extracts articles from a URL using Newspaper3k.
